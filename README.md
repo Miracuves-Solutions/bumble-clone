@@ -1,11 +1,11 @@
 # Bumble Clone — White-Label Dating & Social Discovery Platform by Miracuves
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxingle.mimeld.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxdemo.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/bumble-clone/)
-[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/bumble-clone/#pricing)
-[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
+[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/bumble-clone/#features)
+[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/bumble-clone/#features)
 
-**MXIngle** is a production-ready, white-label Bumble clone: a complete dating & social-discovery platform with profiles, swipes, chat, and admin console — delivered with **100% source code ownership** in **6 working days**.
+**MXDemo** is a production-ready, white-label Bumble clone: a complete dating & social-discovery platform with profiles, swipes, chat, and admin console — delivered with **100% source code ownership** in **6 working days**.
 
 > 💕 **See it running before you talk to anyone.** Live dater app, match console, and admin panel — demo credentials are printed on the [solution page](https://miracuves.com/bumble-clone#demo). No sales call required.
 
@@ -16,7 +16,7 @@
 | Environment | URL | What you can test |
 |---|---|---|
 | 📱 Dater App | [mas.mimeld.com](https://mas.mimeld.com) | Browse, swipe, match, chat, video date |
-| 🌐 Web Portal | [mxingle.mimeld.com](https://mxingle.mimeld.com) | Full dating experience in browser |
+| 🌐 Web Portal | [mxdemo.mimeld.com](https://mxdemo.mimeld.com) | Full dating experience in browser |
 | 🛡️ Trust Console | [Solution page → Demo](https://miracuves.com/bumble-clone#demo) | Verifications, reports, takedowns |
 | 🛠️ Admin Dashboard | [Solution page → Demo](https://miracuves.com/bumble-clone#demo) | Users, monetization, analytics |
 
@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$6,699**, transparent on the [solution page](https://miracuves.com/bumble-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$6,699**, transparent on the [solution page](https://miracuves.com/bumble-clone/#features) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -80,10 +80,12 @@ Custom dating platforms run $80k–$350k and 5–10 months. A proven white-label
 ## 📚 Resources
 
 - 📖 [Bumble Clone — Full Solution Page](https://miracuves.com/bumble-clone) (features, pricing, demos, FAQ)
-- 💰 [How Much Does a Dating App Cost in 2026?](https://miracuves.com/bumble-clone#pricing) pricing breakdown & what's included
-- 📝 [Best Bumble Clone Script in 2026](https://miracuves.com/bumble-clone/blog/) features, pricing & launch guide
-- 🧠 [Trust & Safety: The Decisive Moat in Dating Apps](https://miracuves.com/bumble-clone/blog/) verification, moderation, brand
-- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/bumble-clone/facts/) every claim we make, verified
+- 💰 [How Much Does a Dating App Cost in 2026?](https://miracuves.com/bumble-clone#features) pricing breakdown & what's included
+- 📝 [Best Bumble Clone Script in 2026](https://miracuves.com/bumble-clone#features) features, pricing & launch guide
+- 🧠 [Trust & Safety: The Decisive Moat in Dating Apps](https://miracuves.com/bumble-clone#features) verification, moderation, brand
+- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/bumble-clone#faq) every claim we make, verified
+- 💻 [Bumble Clone — Technical Stack](https://miracuves.com/bumble-clone#techstack) languages, databases, infra, payments, hosting
+- 🔄 [Bumble Clone — How It Works / User Flow](https://miracuves.com/bumble-clone#flow) step-by-step product walkthrough
 
 ## 🏢 About Miracuves
 
@@ -95,7 +97,7 @@ Custom dating platforms run $80k–$350k and 5–10 months. A proven white-label
 
 ### ⚠️ Note on This Repository
 
-This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/bumble-clone/#included). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
+This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/bumble-clone/#features). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
 
 *Keywords: bumble clone, bumble clone script, dating app, match platform, white label Tinder, video date, Flutter dating app, Node.js dating*
 
@@ -106,9 +108,9 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Bumble Clone
-{MX_NAME}         MXIngle
+{MX_NAME}         MXDemo
 {CATEGORY}        Dating & Social Discovery Platform
-{DEMO_WEB}        mxingle.mimeld.com
+{DEMO_WEB}        mxdemo.mimeld.com
 {PRICE}           $6,699
 {SLUG}            bumble-clone
 {SOLUTION_URL}    https://miracuves.com/bumble-clone/
